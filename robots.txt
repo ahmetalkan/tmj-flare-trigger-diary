@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tmj-flare-trigger-diary.onrender.com/sitemap.xml
